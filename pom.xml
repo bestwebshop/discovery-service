@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>tech.bestwebshop.api</groupId>
-    <artifactId>eureka-server</artifactId>
+    <artifactId>discovery-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-server</name>
+    <name>discovery-service</name>
     <description>Eureka Server for the webshop api</description>
 
     <properties>
